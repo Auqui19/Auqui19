@@ -1,3 +1,5 @@
+<img src="https://github.com/Auqui19/Auqui19/blob/main/wave.svg"/>
+
 ### Hi there 👋
 
 <!--
