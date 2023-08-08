@@ -13,7 +13,7 @@
 &nbsp;&nbsp;&nbsp; 🌱  Amo por la ciencia y la innovación.\
 &nbsp;&nbsp;&nbsp; 💓  Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
 &nbsp;&nbsp;&nbsp; ✍️  Actualmente me dedico aprender la programación, realizando proyectos.\
-&nbsp;&nbsp;&nbsp; 🛠️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
+&nbsp;&nbsp;&nbsp; 🎖️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
 &nbsp;&nbsp;&nbsp; 📍  Viviendo en Perú actualmente. 🔴⚪🔴
 
 ### 🌐 Sociales:
