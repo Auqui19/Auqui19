@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alonso</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3>¡Hola! 👋🏻 ¿Cómo estás?</h3>
+
+---
 <table align="right">
  <tr><td><a href="README.md"> Español</a></td></tr>
  <tr><td><a href="README_ENG.md"> English</a></td></tr>
 </table>
 
----
 ### 💫 About Me:
 
 &nbsp;&nbsp;&nbsp; 🧑‍💻 Actualmente soy estudiante de computación e informática.\
