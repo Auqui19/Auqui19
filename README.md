@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alonso</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<hr/>
+<br/>
 
 ### :space_invader: &nbsp;About Me
 
