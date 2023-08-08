@@ -26,12 +26,12 @@
 <details>
   <summary><b>:gear: &nbsp;GitHub Estadísticas</b></summary><br/> 
   <div align="center" >
-   <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=Auqui19&theme=radical&hide_border=false" />
+   <img height="147px" src="https://github-readme-streak-stats.herokuapp.com/?user=Auqui19&theme=radical&hide_border=false" />
    <br/>
   </div>
   <br/>
   <div align="center" >
-   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+   <img height="147px" src="https://github-readme-stats.vercel.app/api?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /> <img height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
    
   </div>
   
