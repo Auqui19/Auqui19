@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp; 💓  Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
 &nbsp;&nbsp;&nbsp; ✍️  Actualmente me dedico aprender la programación, realizando proyectos.\
 &nbsp;&nbsp;&nbsp; 🛠️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
-&nbsp;&nbsp;&nbsp; 👨  Viviendo en Perú actualmente. 🔴⚪🔴
+&nbsp;&nbsp;&nbsp; 📍  Viviendo en Perú actualmente. 🔴⚪🔴
 
 ### 🌐 Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/BLACK.AUKI.5) &nbsp;&nbsp;&nbsp;
