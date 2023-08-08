@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alonso</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<br/>
-
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;Actualmente soy estudiante de computación e informática. \
