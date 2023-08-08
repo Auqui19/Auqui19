@@ -16,9 +16,12 @@
 &nbsp;&nbsp;&nbsp; 🎖️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
 &nbsp;&nbsp;&nbsp; 📍  Viviendo en Perú actualmente. 🔴⚪🔴
 
-### 🌐 Sociales:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/BLACK.AUKI.5) &nbsp;&nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/yoalonsoo) 
+<p align="center">
+  <a href="mailto:sebasauquitasayco@gmail.com?subject=Hola%20Sebastian%20Auqui"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://facebook.com/BLACK.AUKI.5"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/yoalonsoo"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+</p>
 
 ---
 ### 💻 Lista de tecnologías:
