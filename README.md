@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alonso</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+### :space_invader: &nbsp;About Me
+
+&nbsp;&nbsp;&nbsp;:technologist: &nbsp;Actualmente soy estudiante de computación e informática. \
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Amo por la ciencia y la innovación.\
+&nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
+&nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Actualmente me dedico aprender la programación, realizando proyectos.\
+&nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Soy un estudiante con un año y medio de experiencia en programación, y aunque mi conocimiento es limitado en este momento, estoy comprometido a seguir aprendiendo y mejorando con el tiempo.\
+&nbsp;&nbsp;&nbsp;:man: &nbsp;Viviendo en Perú actualmente. :red_circle: :white_circle: :red_circle:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
