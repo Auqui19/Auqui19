@@ -46,7 +46,7 @@
   </div>
   <br/>
   <div align="center" >
-   <img height="147px" src="https://github-readme-stats.vercel.app/api?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /> <img height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+   <img height="147px" src="https://github-readme-stats.vercel.app/api?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /> &nbsp; <img height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
    
   </div>
   
