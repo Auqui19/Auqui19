@@ -1,5 +1,5 @@
 <h1 align="center">I'm Sebastian Alonso</h1>
-<h3 align="center">Hi there! 👋🏻 How are you doing ?</h3>
+<h3>Hi there! 👋🏻 How are you doing ?</h3>
 
 ---
 <table align="right">
