@@ -41,16 +41,28 @@
 <details>
   <summary><b>:gear: &nbsp;GitHub Estadísticas</b></summary><br/> 
   <div align="center" >
-   <img height="147px" src="https://github-readme-streak-stats.herokuapp.com/?user=Auqui19&theme=radical&hide_border=false" />
+   <img height="147px" src="https://github-readme-streak-stats.herokuapp.com/?user=Auqui19&theme=nightowl&hide_border=true" />
    <br/>
   </div>
   <br/>
   <div align="center" >
-   <img height="147px" src="https://github-readme-stats.vercel.app/api?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false" /> &nbsp; <img height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auqui19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+   <img height="147px" src="https://github-readme-stats.vercel.app/api?username=Auqui19&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false" /> &nbsp; <img height="147px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Auqui19&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
    
   </div>
   
 </details>
+
+<details>
+ <summary><b>🏆 GitHub Trofeos</b></summary><br/> 
+
+ ![](https://github-profile-trophy.vercel.app/?username=Auqui19&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+</details>
+<details>
+ <summary><b>✍️ Frase aleatoria de desarrollo</b></summary><br/> 
+
+ ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</details>
+
 
 ---
 <p align="right">
