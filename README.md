@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sebastian Alonso</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
----
 
+---
 ### 💫 About Me:
 
-🧑‍💻  Actualmente soy estudiante de computación e informática.<br>🌱  Amo por la ciencia y la innovación.<br>💓  Apasionado por la resolución de problemas y la automatización de rutinas diarias.<br>✍️  Actualmente me dedico aprender la programación, realizando proyectos.<br>🛠️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.<br>👨  Viviendo en Perú actualmente. 🔴⚪🔴
+&nbsp;&nbsp;&nbsp; 🧑‍💻 Actualmente soy estudiante de computación e informática.\
+&nbsp;&nbsp;&nbsp; 🌱  Amo por la ciencia y la innovación.\
+&nbsp;&nbsp;&nbsp; 💓  Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
+&nbsp;&nbsp;&nbsp; ✍️  Actualmente me dedico aprender la programación, realizando proyectos.\
+&nbsp;&nbsp;&nbsp; 🛠️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
+&nbsp;&nbsp;&nbsp; 👨  Viviendo en Perú actualmente. 🔴⚪🔴\
 ---
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BLACK.AUKI.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoalonsoo) 
