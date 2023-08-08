@@ -9,7 +9,8 @@
 &nbsp;&nbsp;&nbsp; 💓  Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
 &nbsp;&nbsp;&nbsp; ✍️  Actualmente me dedico aprender la programación, realizando proyectos.\
 &nbsp;&nbsp;&nbsp; 🛠️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
-&nbsp;&nbsp;&nbsp; 👨  Viviendo en Perú actualmente. 🔴⚪🔴\
+&nbsp;&nbsp;&nbsp; 👨  Viviendo en Perú actualmente. 🔴⚪🔴
+
 ---
 ### 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BLACK.AUKI.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yoalonsoo) 
