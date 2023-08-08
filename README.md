@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
 &nbsp;&nbsp;&nbsp;:writing_hand: &nbsp;Actualmente me dedico aprender la programación, realizando proyectos.\
 &nbsp;&nbsp;&nbsp;:hammer_and_wrench: &nbsp;Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
-&nbsp;&nbsp;&nbsp;:man: &nbsp;Viviendo en Perú actualmente. :red_circle: :white_circle: :red_circle:
+&nbsp;&nbsp;&nbsp;:man: &nbsp;Viviendo en Perú actualmente. :red_circle::white_circle::red_circle:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
