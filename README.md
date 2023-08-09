@@ -1,4 +1,4 @@
-<img src="img/github-header-image.png"></img>
+<img width="100%" src="img/github-header-image.png"></img>
 <h3>¡Hola! 👋🏻 ¿Cómo estás?</h3>
 
 ---
