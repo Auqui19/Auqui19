@@ -67,5 +67,4 @@
 ---
 <p align="right">
 <img src="https://visitcount.itsvg.in/api?id=Auqui19&icon=5&color=12"><img>
-
 </p>
