@@ -1,4 +1,4 @@
-<h1 align="center">Soy Sebastian Alonso</h1>
+<img src="img/github-header-image.png"></img>
 <h3>¡Hola! 👋🏻 ¿Cómo estás?</h3>
 
 ---
