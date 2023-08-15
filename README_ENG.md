@@ -53,12 +53,12 @@
 </details>
 
 <details>
- <summary><b>🏆 GitHub Trofeos</b></summary><br/> 
+ <summary><b>🏆 GitHub Trophies</b></summary><br/> 
 
  ![](https://github-profile-trophy.vercel.app/?username=Auqui19&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 </details>
 <details>
- <summary><b>✍️ Frase aleatoria de desarrollo</b></summary><br/> 
+ <summary><b>✍️ Random development phrase</b></summary><br/> 
 
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </details>
