@@ -1,5 +1,5 @@
 <img width="100%" src="img/github-header-image.png"></img>
-<h3>¡Hola! 👋🏻 ¿Cómo estás?</h3>
+<h3>Hi there! 👋🏻 How are you doing?</h3>
 
 ---
 <table align="right">
@@ -7,14 +7,14 @@
  <tr><td><a href="README_ENG.md"> English</a></td></tr>
 </table>
 
-### 💫 Acerca de mí:
+### 💫 About me:
 
-&nbsp;&nbsp;&nbsp; 🧑‍💻 Actualmente soy estudiante de computación e informática.\
-&nbsp;&nbsp;&nbsp; 🌱  Amo por la ciencia y la innovación.\
-&nbsp;&nbsp;&nbsp; 💓  Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
-&nbsp;&nbsp;&nbsp; ✍️  Actualmente me dedico aprender la programación, realizando proyectos.\
-&nbsp;&nbsp;&nbsp; 🎖️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
-&nbsp;&nbsp;&nbsp; 📍  Viviendo en Perú actualmente. 🔴⚪🔴
+&nbsp;&nbsp;&nbsp; 🧑‍💻 I am currently a student of computer science.\
+&nbsp;&nbsp;&nbsp; 🌱  Love for science and innovation.\
+&nbsp;&nbsp;&nbsp; 💓  Passionate about problem solving and automating daily routines.\
+&nbsp;&nbsp;&nbsp; ✍️  Currently I am dedicated to learn programming, making projects.\
+&nbsp;&nbsp;&nbsp; 🎖️  Student with limited knowledge for now, but I am committed to continuously improve and learn.\
+&nbsp;&nbsp;&nbsp; 📍  Living in Peru at present. 🔴⚪🔴
 
 <p align="center">
   <a href="mailto:sebasauquitasayco@gmail.com?subject=Hola%20Sebastian%20Auqui"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -24,7 +24,7 @@
 </p>
 
 ---
-### 💻 Lista de tecnologías:
+### 💻 Main tech knowledge:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
@@ -39,7 +39,7 @@
 ![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=for-the-badge&logo=eclipse)
 
 <details>
-  <summary><b>:gear: &nbsp;GitHub Estadísticas</b></summary><br/> 
+  <summary><b>:gear: &nbsp;GitHub Statistics</b></summary><br/> 
   <div align="center" >
    <img height="147px" src="https://github-readme-streak-stats.herokuapp.com/?user=Auqui19&theme=nightowl&hide_border=true" />
    <br/>
