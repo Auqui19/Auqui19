@@ -5,8 +5,8 @@
 
 ---
 <table align="right">
- <tr><td><a href="README.md"> Español</a></td></tr>
- <tr><td><a href="README_ENG.md"> English</a></td></tr>
+  <tr><td><a href="README.md"><img src="/img/icons8-circular-españa-48.png" style="width: 26px; height: 26px;"></img></a></td></tr>
+  <tr><td><a href="README_ENG.md"><img src="/img/icons8-circular-de-gran-bretaña-48.png" style="width: 26px; height: 26px;"></img></a></td></tr>
 </table>
 
 ### 💫 Acerca de mí:
@@ -19,31 +19,20 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍  Viviendo en Perúcity actualmente. 🔴⚪🔴 
  
 <div align="center">
+ <a href="https://www.linkedin.com/in/alonso-auqui-tasayco/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> 
  <a href="https://www.instagram.com/yoalonsoo/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
  <a href="mailto:sebasauquitasayco@gmail.com?subject=Hola%20Sebastian%20Auqui">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a> 
- <a href="https://www.linkedin.com/in/alonso-auqui-tasayco/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a> 
 </div>
 
 ---
 ### 💻 Lista de tecnologías:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp; 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) &nbsp; \
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp; 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) &nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp; \
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) &nbsp; 
-![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=visual-studio-code)&nbsp;
-![Eclipse](https://img.shields.io/badge/ECLIPSE-2C2255.svg?&style=for-the-badge&logo=eclipse)
+[![My Skills](https://skillicons.dev/icons?i=angular,astro,js,ts,tailwind,bootstrap,wordpress,cs,java,spring,mysql,idea,vscode,visualstudio,eclipse,git,github,postman,powershell,figma,windows)](https://skillicons.dev)
 
 <details>
   <summary><b>:gear: &nbsp;GitHub Estadísticas</b></summary><br/> 
@@ -70,8 +59,3 @@
  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 </details>
 
-
----
-<p align="right">
-<img src="https://visitcount.itsvg.in/api?id=Auqui19&icon=5&color=12"><img>
-</p>
