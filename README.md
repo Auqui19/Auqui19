@@ -1,4 +1,6 @@
-<!--<img width="100%" src="img/github-header-image.png"></img>-->
+
+![banner](https://github.com/Auqui19/Auqui19/assets/103224841/ff0c80e7-b7f1-4841-8925-9b9c29f97871)
+
 <h3>¡Hola! 👋🏻 ¿Cómo estás?</h3>
 
 ---
