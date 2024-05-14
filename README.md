@@ -1,7 +1,7 @@
 
-![banner](https://github.com/Auqui19/Auqui19/assets/103224841/ff0c80e7-b7f1-4841-8925-9b9c29f97871)
+![bannerGitHub](https://github.com/Auqui19/Auqui19/assets/103224841/c84e1723-496d-41ce-8133-5718b3433a5c)
 
-<h3>¡Hola! 👋🏻 ¿Cómo estás?</h3>
+<h3 align="center">¡Hola! 👋🏻 ¿Cómo estás?</h3>
 
 ---
 <table align="right">
@@ -11,18 +11,24 @@
 
 ### 💫 Acerca de mí:
 
-&nbsp;&nbsp;&nbsp; 🧑‍💻 Actualmente soy estudiante de computación e informática.\
-&nbsp;&nbsp;&nbsp; 🌱  Amo por la ciencia y la innovación.\
-&nbsp;&nbsp;&nbsp; 💓  Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
-&nbsp;&nbsp;&nbsp; ✍️  Actualmente me dedico aprender la programación, realizando proyectos.\
-&nbsp;&nbsp;&nbsp; 🎖️  Estudiante con conocimiento limitado por ahora, pero estoy comprometido a mejorar y aprender continuamente.\
-&nbsp;&nbsp;&nbsp; 📍  Viviendo en Perú actualmente. 🔴⚪🔴
-
-<p align="center">
-  <a href="mailto:sebasauquitasayco@gmail.com?subject=Hola%20Sebastian%20Auqui"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧑‍💻 Actualmente soy programador full stack.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🌱  Amo por la ciencia y la innovación.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 💓  Apasionado por la resolución de problemas y la automatización de rutinas diarias.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✍️  Actualmente me dedico aprender de la programación, realizando proyectos.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🎖️  Estudiante de 5to ciclo, comprometido a mejorar y aprender continuamente.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 📍  Viviendo en Perúcity actualmente. 🔴⚪🔴 
  
-</p>
+<div align="center">
+ <a href="https://www.instagram.com/yoalonsoo/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+ <a href="mailto:sebasauquitasayco@gmail.com?subject=Hola%20Sebastian%20Auqui">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a> 
+ <a href="https://www.linkedin.com/in/alonso-auqui-tasayco/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a> 
+</div>
 
 ---
 ### 💻 Lista de tecnologías:
