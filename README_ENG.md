@@ -1,6 +1,6 @@
 ![bannerGitHub](https://github.com/Auqui19/Auqui19/assets/103224841/c84e1723-496d-41ce-8133-5718b3433a5c)
 
-<h3 >Hi there! 👋🏻 How are you doing?</h3>
+<h3 align="center">Hi there! 👋🏻 How are you doing?</h3>
 
 ---
 <table align="right">
@@ -10,11 +10,11 @@
 
 ### 💫 About me:
 
-&nbsp;&nbsp;&nbsp; 🧑‍💻 I am currently a student of computer science.\
+&nbsp;&nbsp;&nbsp; 🧑‍💻  I am currently a full stack programmer.\
 &nbsp;&nbsp;&nbsp; 🌱  Love for science and innovation.\
 &nbsp;&nbsp;&nbsp; 💓  Passionate about problem solving and automating daily routines.\
-&nbsp;&nbsp;&nbsp; ✍️  Currently I am dedicated to learn programming, making projects.\
-&nbsp;&nbsp;&nbsp; 🎖️  Student with limited knowledge for now, but I am committed to continuously improve and learn.\
+&nbsp;&nbsp;&nbsp; ✍️  Currently I am dedicated to learning programming, carrying out projects.\
+&nbsp;&nbsp;&nbsp; 🎖️  5th cycle student, committed to improvement and continuous learning.\
 &nbsp;&nbsp;&nbsp; 📍  Living in Peru at present. 🔴⚪🔴
 
 <div align="center">
