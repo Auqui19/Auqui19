@@ -53,9 +53,5 @@
 
  ![](https://github-profile-trophy.vercel.app/?username=Auqui19&theme=discord&no-frame=true&no-bg=true&margin-w=4)
 </details>
-<details>
- <summary><b>✍️ Frase aleatoria de desarrollo</b></summary><br/> 
 
- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</details>
 
