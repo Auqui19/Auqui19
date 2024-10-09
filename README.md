@@ -25,7 +25,7 @@
  <a href="https://www.instagram.com/yoalonsoo/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
- <a href="mailto:sebasauquitasayco@gmail.com?subject=Hola%20Sebastian%20Auqui">
+ <a href="mailto:auquialonso19@gmail.com?subject=Hola%20Sebastian%20Auqui">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a> 
 </div>
